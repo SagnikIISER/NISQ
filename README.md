@@ -5,3 +5,4 @@ This repository contains codes and the Version Control of an attempt to code an 
 ## Files:
 
 1. **Vedika:** Simulation of the Sycamore Cirquit aka PRX 030346.
+2. **Miminal3:** Z rotation with CNOT
